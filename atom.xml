@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kaan Erkol | Blog]]></title>
-  <link href="http://kaanerkol.net/atom.xml" rel="self"/>
-  <link href="http://kaanerkol.net/"/>
-  <updated>2015-10-27T15:18:57+02:00</updated>
-  <id>http://kaanerkol.net/</id>
+  <link href="http://blog.kaanerkol.net/atom.xml" rel="self"/>
+  <link href="http://blog.kaanerkol.net/"/>
+  <updated>2015-10-27T15:26:18+02:00</updated>
+  <id>http://blog.kaanerkol.net/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Kaan Erkol]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -16,10 +16,10 @@
   <entry>
     
     <title type="html"><![CDATA[first post]]></title>
-    <link href="http://kaanerkol.net/blog/2015/10/27/title/"/>
+    <link href="http://blog.kaanerkol.net/blog/2015/10/27/title/"/>
     
     <updated>2015-10-27T15:09:16+02:00</updated>
-    <id>http://kaanerkol.net/blog/2015/10/27/title</id>
+    <id>http://blog.kaanerkol.net/blog/2015/10/27/title</id>
     
     <content type="html"><![CDATA[<h2>Hello World</h2>
 ]]></content>
