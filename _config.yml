@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://kaanerkol.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+url: http://kaanerkol.net
+title: Kaan Erkol | Blog
+subtitle: Full  Stack Developer
 author: Your Name
 simple_search: https://www.google.com/search
 description:
@@ -17,10 +17,10 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: ~
 # RSS feeds can list your email address if you like
-email:
-
+email: ~
+layout: null
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
